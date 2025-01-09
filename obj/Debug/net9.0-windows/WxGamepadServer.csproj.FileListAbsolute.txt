@@ -1,0 +1,15 @@
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\bin\Debug\net9.0-windows\WxGamepadServer.exe
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\bin\Debug\net9.0-windows\WxGamepadServer.deps.json
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\bin\Debug\net9.0-windows\WxGamepadServer.runtimeconfig.json
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\bin\Debug\net9.0-windows\WxGamepadServer.dll
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\bin\Debug\net9.0-windows\WxGamepadServer.pdb
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\WxGamepadServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\WxGamepadServer.AssemblyInfoInputs.cache
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\WxGamepadServer.AssemblyInfo.cs
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\WxGamepadServer.csproj.CoreCompileInputs.cache
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\WxGamepadServer.sourcelink.json
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\WxGamepadServer.dll
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\refint\WxGamepadServer.dll
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\WxGamepadServer.pdb
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\WxGamepadServer.genruntimeconfig.cache
+C:\Users\XEMBO\Desktop\Workspace\WxgamepadWindowsServer\WxGamepad-Windows-server\obj\Debug\net9.0-windows\ref\WxGamepadServer.dll
