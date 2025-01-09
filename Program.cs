@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 class Program
 {
+
     static async Task Main(string[] args)
     {
         HttpListener listener = new HttpListener();
         listener.Prefixes.Add("http://localhost:8080/");
         listener.Start();
-        Console.WriteLine("Server started. Waiting for connections...");
+        Console.WriteLine("Server started. Waiting for connections....");
 
         while (true)
         {
