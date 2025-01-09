@@ -1,0 +1,14 @@
+/Users/xembo/development/windows/WxGamepadServer/bin/Debug/net9.0/WxGamepadServer
+/Users/xembo/development/windows/WxGamepadServer/bin/Debug/net9.0/WxGamepadServer.deps.json
+/Users/xembo/development/windows/WxGamepadServer/bin/Debug/net9.0/WxGamepadServer.runtimeconfig.json
+/Users/xembo/development/windows/WxGamepadServer/bin/Debug/net9.0/WxGamepadServer.dll
+/Users/xembo/development/windows/WxGamepadServer/bin/Debug/net9.0/WxGamepadServer.pdb
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/WxGamepadServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/WxGamepadServer.AssemblyInfoInputs.cache
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/WxGamepadServer.AssemblyInfo.cs
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/WxGamepadServer.csproj.CoreCompileInputs.cache
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/WxGamepadServer.dll
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/refint/WxGamepadServer.dll
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/WxGamepadServer.pdb
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/WxGamepadServer.genruntimeconfig.cache
+/Users/xembo/development/windows/WxGamepadServer/obj/Debug/net9.0/ref/WxGamepadServer.dll
